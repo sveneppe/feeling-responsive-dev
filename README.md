@@ -1,5 +1,5 @@
 ## Attention: This repo is a fork from [Phlow/feeling-responsive](https://github.com/Phlow/feeling-responsive).
-The documentation below belongs to his work on his, by time latest version (v1.91).
+The documentation below belongs to his work at his repository, by time of creating the fork (v1.91).
 
 # Newsletter: Stay in Touch for Future Updates
 
