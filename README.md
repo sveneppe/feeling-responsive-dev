@@ -1,4 +1,5 @@
-## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
+## Attention: This repo is a fork from [Phlow/feeling-responsive](https://github.com/Phlow/feeling-responsive).
+The documentation below belongs to his work on his, by time latest version (v1.91).
 
 # Newsletter: Stay in Touch for Future Updates
 
