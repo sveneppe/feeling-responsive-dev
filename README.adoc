@@ -1,1 +1,12 @@
-== Attention: This repo is a fork from https://github.com/Phlow/feeling-responsive[Phlow/feeling-responsive] (v1.91).
+:icons: font
+:toc:
+:toclevels: 2
+
+
+= My version of https://github.com/Phlow/feeling-responsive[Phlow/feeling-responsive]
+
+WARNING: This repo is a fork from https://github.com/Phlow/feeling-responsive[Phlow/feeling-responsive] (v1.91).
+I want to make my own stuff around it, but I want to point out, that the basis is fully created , managed and frequently updated by himself.
+At this point: _Thank you very much!_
+
+
